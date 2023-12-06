@@ -58,6 +58,9 @@ This project has empowered us to make data-driven decisions, optimize strategies
 # PowerBI
 ![Screenshot (124)](https://github.com/janhavi3011/Insurance-Analytics/assets/95441118/185845a7-c49a-4719-bd99-a4099445db23)
 
+# Conclusion
+The company achieved its target of generating 3.63M invoices in the new business, achieving 88.56% of the target. In the renew business, the target was achieved at 18.53M, achieving 194.59% of the target and generating 86.60% of the target. In the cross-sell business, the target was met at 7.29M, achieving 180.51% of the target and generating 39.15% of the target. The top revenue opportunities are DB-Mega Policy, EL-Group Mediclaim, and Fire.
+
 
 
 
