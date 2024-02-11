@@ -1,4 +1,4 @@
-# Insurance-Analytics
+# Insurance-Analytics(Data Analysis Project)
 ## Overview
 The Branch Dashboard is designed to facilitate discussions between our Insurance Team and Individual Branch Heads. It's a powerful tool that provides insights into new and renewal insurance  numbers, helping us track and optimize performance at both individual and branch levels.
 The dashboard takes data from various sources, such as target sheets, brokerage and fees sheets, invoices, meeting records, opportunity reports, and more. It then calculates and visualizes these metrics to provide a comprehensive overview of branch and individual performance.
